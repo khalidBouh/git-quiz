@@ -6,28 +6,28 @@
 
 1. What is a repository?
 
-<!-- Write your answer under here -->
+<!-- Waa Folder, waxa la isticmaala marka aad project ka shaqeynayso markaa waa folderka project-kaaga -->
 
 2. What is the Git command to make a copy of a repo to your laptop?
 
-<!-- Write your answer under here -->
+<!-- git clone + Link -->
 
 3. What is the Git command to send your code to Github?
 
-<!-- Write your answer under here -->
+<!-- git push -->
 
 4. What does the -m in a Git commit command mean or do?
 
-<!-- Write your answer here -->
+<!-- waxaa loo soo qaabiyay Message-ka -->
 
 5. What is the Git command for making a commit?
 
-<!-- Write your answer here -->
+<!-- git commit -m " waxa lagu qoraya message-ka" -->
 
 6. What is the Git command to put your files in the staging area?
 
-<!-- Write your answer here -->
+<!-- git add . -->
 
 7. What does origin stand for when pushing you code?
 
-<!-- Write your answer here -->
+<!-- Origin wuxu tilmaamaya meesha uu yaala repo markaa kalmada origin ayuu haysanayaa commandku si hadhow loo isticmaalo -->
